@@ -1,0 +1,1722 @@
+{
+  "Version": 1,
+  "Hash": "Xeb0/b1+ZUWhHWP4vdhVMKkoK2aMLS71VP/JrP9BUCI=",
+  "Source": "TodoApi",
+  "BasePath": "_content/TodoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TodoApi/wwwroot",
+      "Source": "TodoApi",
+      "ContentRoot": "/Users/pran/dotnet-core-api/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/70i14x0wd0-5way6djep0.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/scripts/todoListSvc#[.{fingerprint=5way6djep0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListSvc.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6w7w4gv5zc",
+      "Integrity": "ChzbTU4dpRH4YK/vs4gBqrFhDA5jMIlOgQsIQXZ79Rg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListSvc.js"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/bdh733fr2v-rbvt28xcti.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/scripts/app#[.{fingerprint=rbvt28xcti}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "olwtsginjm",
+      "Integrity": "TAYvkbR91/gvaU4B4gOM4RIbQrFTip7kLkLjZvdT/ZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/app.js"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/hrdy3p5h1l-7zabzrrq39.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/views/TodoList#[.{fingerprint=7zabzrrq39}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pran/dotnet-core-api/wwwroot/app/views/TodoList.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sqloadu0im",
+      "Integrity": "FAJakpv5sfpPpVJW90ZwHKyENTT8FrhvrQrRXhKo3q8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pran/dotnet-core-api/wwwroot/app/views/TodoList.html"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/v7fzscjp8g-myln6xqo8h.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "index#[.{fingerprint=myln6xqo8h}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pran/dotnet-core-api/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6t9e4e3t3a",
+      "Integrity": "KhWbeIW4fBVhZFfT4V7MN2Gx4NFkcLRtWNW/pVFq3dk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pran/dotnet-core-api/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/y1id10x3cp-or7e03oy8o.gz",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/scripts/todoListCtrl#[.{fingerprint=or7e03oy8o}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListCtrl.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4gg1nuym6l",
+      "Integrity": "fKdOMXstNVDW3/XYviHOHmm02AnDpoUal51T5R4KHyU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListCtrl.js"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/app.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/scripts/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rbvt28xcti",
+      "Integrity": "KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app/scripts/app.js"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListCtrl.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/scripts/todoListCtrl#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "or7e03oy8o",
+      "Integrity": "LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app/scripts/todoListCtrl.js"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListSvc.js",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/scripts/todoListSvc#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5way6djep0",
+      "Integrity": "pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app/scripts/todoListSvc.js"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/wwwroot/app/views/TodoList.html",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "app/views/TodoList#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7zabzrrq39",
+      "Integrity": "U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app/views/TodoList.html"
+    },
+    {
+      "Identity": "/Users/pran/dotnet-core-api/wwwroot/index.html",
+      "SourceId": "TodoApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/pran/dotnet-core-api/wwwroot/",
+      "BasePath": "_content/TodoApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "myln6xqo8h",
+      "Integrity": "EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app/scripts/app.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/bdh733fr2v-rbvt28xcti.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003134796238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAYvkbR91/gvaU4B4gOM4RIbQrFTip7kLkLjZvdT/ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/app.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/app.js.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/bdh733fr2v-rbvt28xcti.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAYvkbR91/gvaU4B4gOM4RIbQrFTip7kLkLjZvdT/ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAYvkbR91/gvaU4B4gOM4RIbQrFTip7kLkLjZvdT/ZA="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/app.rbvt28xcti.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/bdh733fr2v-rbvt28xcti.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003134796238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAYvkbR91/gvaU4B4gOM4RIbQrFTip7kLkLjZvdT/ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rbvt28xcti"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/app.rbvt28xcti.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rbvt28xcti"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUqhl+z/ftfde05I57qKTslBX351T9kC3J8KU9oFZJI="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/app.rbvt28xcti.js.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/bdh733fr2v-rbvt28xcti.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAYvkbR91/gvaU4B4gOM4RIbQrFTip7kLkLjZvdT/ZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rbvt28xcti"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAYvkbR91/gvaU4B4gOM4RIbQrFTip7kLkLjZvdT/ZA="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListCtrl.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/y1id10x3cp-or7e03oy8o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001869158879"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKdOMXstNVDW3/XYviHOHmm02AnDpoUal51T5R4KHyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListCtrl.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListCtrl.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListCtrl.js.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/y1id10x3cp-or7e03oy8o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKdOMXstNVDW3/XYviHOHmm02AnDpoUal51T5R4KHyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKdOMXstNVDW3/XYviHOHmm02AnDpoUal51T5R4KHyU="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListCtrl.or7e03oy8o.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/y1id10x3cp-or7e03oy8o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001869158879"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKdOMXstNVDW3/XYviHOHmm02AnDpoUal51T5R4KHyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "or7e03oy8o"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/todoListCtrl.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListCtrl.or7e03oy8o.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListCtrl.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "or7e03oy8o"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/todoListCtrl.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LPW/dtj8qcq768g3qUTwNfNjy3uBjmv7gJSTPcUuJx4="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListCtrl.or7e03oy8o.js.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/y1id10x3cp-or7e03oy8o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fKdOMXstNVDW3/XYviHOHmm02AnDpoUal51T5R4KHyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "or7e03oy8o"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/todoListCtrl.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fKdOMXstNVDW3/XYviHOHmm02AnDpoUal51T5R4KHyU="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListSvc.5way6djep0.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/70i14x0wd0-5way6djep0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChzbTU4dpRH4YK/vs4gBqrFhDA5jMIlOgQsIQXZ79Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5way6djep0"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/todoListSvc.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListSvc.5way6djep0.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListSvc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5way6djep0"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/todoListSvc.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListSvc.5way6djep0.js.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/70i14x0wd0-5way6djep0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChzbTU4dpRH4YK/vs4gBqrFhDA5jMIlOgQsIQXZ79Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5way6djep0"
+        },
+        {
+          "Name": "label",
+          "Value": "app/scripts/todoListSvc.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChzbTU4dpRH4YK/vs4gBqrFhDA5jMIlOgQsIQXZ79Rg="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListSvc.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/70i14x0wd0-5way6djep0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChzbTU4dpRH4YK/vs4gBqrFhDA5jMIlOgQsIQXZ79Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListSvc.js",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/scripts/todoListSvc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pTWbifDiC3JBtssHT4E1VJ9Jub4vpt4/1LdrZQtxreQ="
+        }
+      ]
+    },
+    {
+      "Route": "app/scripts/todoListSvc.js.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/70i14x0wd0-5way6djep0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ChzbTU4dpRH4YK/vs4gBqrFhDA5jMIlOgQsIQXZ79Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ChzbTU4dpRH4YK/vs4gBqrFhDA5jMIlOgQsIQXZ79Rg="
+        }
+      ]
+    },
+    {
+      "Route": "app/views/TodoList.7zabzrrq39.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/hrdy3p5h1l-7zabzrrq39.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001919385797"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAJakpv5sfpPpVJW90ZwHKyENTT8FrhvrQrRXhKo3q8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7zabzrrq39"
+        },
+        {
+          "Name": "label",
+          "Value": "app/views/TodoList.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90="
+        }
+      ]
+    },
+    {
+      "Route": "app/views/TodoList.7zabzrrq39.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/views/TodoList.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7zabzrrq39"
+        },
+        {
+          "Name": "label",
+          "Value": "app/views/TodoList.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90="
+        }
+      ]
+    },
+    {
+      "Route": "app/views/TodoList.7zabzrrq39.html.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/hrdy3p5h1l-7zabzrrq39.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAJakpv5sfpPpVJW90ZwHKyENTT8FrhvrQrRXhKo3q8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7zabzrrq39"
+        },
+        {
+          "Name": "label",
+          "Value": "app/views/TodoList.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAJakpv5sfpPpVJW90ZwHKyENTT8FrhvrQrRXhKo3q8="
+        }
+      ]
+    },
+    {
+      "Route": "app/views/TodoList.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/hrdy3p5h1l-7zabzrrq39.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001919385797"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAJakpv5sfpPpVJW90ZwHKyENTT8FrhvrQrRXhKo3q8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90="
+        }
+      ]
+    },
+    {
+      "Route": "app/views/TodoList.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/app/views/TodoList.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U4tYNA94wlwxe4ZuwCkLYMCaFpMmQlWpIFSqVCOOw90="
+        }
+      ]
+    },
+    {
+      "Route": "app/views/TodoList.html.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/hrdy3p5h1l-7zabzrrq39.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FAJakpv5sfpPpVJW90ZwHKyENTT8FrhvrQrRXhKo3q8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FAJakpv5sfpPpVJW90ZwHKyENTT8FrhvrQrRXhKo3q8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/v7fzscjp8g-myln6xqo8h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001355013550"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KhWbeIW4fBVhZFfT4V7MN2Gx4NFkcLRtWNW/pVFq3dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/v7fzscjp8g-myln6xqo8h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KhWbeIW4fBVhZFfT4V7MN2Gx4NFkcLRtWNW/pVFq3dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KhWbeIW4fBVhZFfT4V7MN2Gx4NFkcLRtWNW/pVFq3dk="
+        }
+      ]
+    },
+    {
+      "Route": "index.myln6xqo8h.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/v7fzscjp8g-myln6xqo8h.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001355013550"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KhWbeIW4fBVhZFfT4V7MN2Gx4NFkcLRtWNW/pVFq3dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "myln6xqo8h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4="
+        }
+      ]
+    },
+    {
+      "Route": "index.myln6xqo8h.html",
+      "AssetFile": "/Users/pran/dotnet-core-api/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "myln6xqo8h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqccW3EQONucUUAh+eTHURvZ30NXiJVqkPjMta6iOi4="
+        }
+      ]
+    },
+    {
+      "Route": "index.myln6xqo8h.html.gz",
+      "AssetFile": "/Users/pran/dotnet-core-api/obj/Debug/net9.0/compressed/v7fzscjp8g-myln6xqo8h.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "737"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KhWbeIW4fBVhZFfT4V7MN2Gx4NFkcLRtWNW/pVFq3dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Jun 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "myln6xqo8h"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KhWbeIW4fBVhZFfT4V7MN2Gx4NFkcLRtWNW/pVFq3dk="
+        }
+      ]
+    }
+  ]
+}
